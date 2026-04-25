@@ -38,7 +38,7 @@ function getAIResponse(text) {
   }
 
   if (text.includes("skills")) {
-    return "My expertise includes .NET, Azure, Microservices, and AI systems.";
+    return "My expertise includes .NET, Angular, Azure, Microservices, and AI systems.";
   }
 
   if (text.includes("project")) {
